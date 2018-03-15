@@ -1,6 +1,6 @@
 ---
-layout: post
-title: You're up and running!
+layout: page
+title: About Me
 ---
 
 ## About Me
