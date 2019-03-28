@@ -10,6 +10,7 @@ div_id: experience
 Sep. 2015 - Present
 * B.Eng. in Software Engineering, [Nanjing University](https://www.nju.edu.cn/EN/)  
 Sep. 2011 - July 2015
+
 ### Internship
 * International Intern in [Preferred Networks](https://www.preferred-networks.jp/en/) (Tokyo, Japan)   
 July. 2018 - Oct. 2018
